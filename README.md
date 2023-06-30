@@ -3,6 +3,7 @@ I'm a passionate and experienced Software Developer and IoT Engineer with a knac
 I love diving into complex problems and finding elegant ways to solve them through code and cutting-edge technologies. Let me share a bit more about myself and my expertise.
 
 🚀 Skills and Expertise
+
 **Programming Language**s: I'm proficient in a variety of programming languages such as Python, Java, C++, and JavaScript. I can adapt to different environments and choose the best language for each project's requirements.
 **Web Development**: I have a strong background in web development, including front-end technologies like HTML, CSS, and JavaScript, as well as back-end frameworks such as Node.js, Django, and Flask. 
 I enjoy building responsive and user-friendly web applications.
